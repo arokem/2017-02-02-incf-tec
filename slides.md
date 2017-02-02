@@ -45,6 +45,7 @@ In graduate school, I started developing open-source software for computational 
 ---
 <img src="images/escience.png" width=350>
 
+--
 <image src="images/DSE-and-sponsors.png" height=200px>
 
 #### $ 37.8M for 5 years: <a href="http://msdse.org/">"Moore-Sloan Data Science Environments"</a>
