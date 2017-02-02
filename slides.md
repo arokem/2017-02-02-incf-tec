@@ -247,6 +247,13 @@ Short focused work on team projects provides an opportunity to learn new topics 
 
 - [OHBM hackathon](http://events.brainhack.org/OHBM2016/)
 
+--
+
+But they also require a degree of expertise that not everyone has
+
+--
+
+OHBM 2015: ["Brainhacking 101"](https://github.com/ohbm/brain-hacking-101)
 
 ---
 
