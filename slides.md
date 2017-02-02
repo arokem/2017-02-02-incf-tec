@@ -14,9 +14,35 @@ layout: true
 <div style="position: absolute; left: 650px; top: 370px;">
 <image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
 
-
 ---
 
+### Who am I?
+--
+
+<image src="images/huji-logo.png" height=100px> I am originally from West Jerusalem, Israel
+
+???
+I come from West Jerusalem, in Israel. In college, at the Hebrew University, I studied Biology and Psychology. This education provided a basis for my interest in interdisciplinary work and for graduate school...
+--
+
+<image src="images/berkeley-logo.png" height=100px> Ph.D. In neuroscience
+
+???
+...I came to the United States, and studied, at the University of California, Berkeley
+--
+
+<image src="images/stanford-logo.png" height=100px> Research experience in computational neuroimaging
+
+???
+After graduate school, I spent a few years conducting research in computational neuroimaging, as a post-doc at Stanford.
+--
+
+ <image src="images/scipy-logo.png" height=100px> <image src="images/nipy-logo.png" height=100px> Open source software development
+
+???
+In graduate school, I started developing open-source software for computational neuroimaging, and became part of a community called "NIPY" (or neuroimaging in Python), which uses the Python programming language to develop open-source tools for analysis of data from human neuroimaging.
+
+---
 <img src="images/escience.png" width=350>
 
 <image src="images/DSE-and-sponsors.png" height=200px>
