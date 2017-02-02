@@ -235,15 +235,38 @@ A mailing list
 
 --
 
+Hackathons are a great opportunity for training
+
+--
+
+Short focused work on team projects provides an opportunity to learn new topics from/with other participants
+
+--
+
+- [Brainhack](http://brainhack.org/)
+
+- [OHBM hackathon](http://events.brainhack.org/OHBM2016/)
+
+
+---
+
+# Neurohackweek
+
+--
+
+Inspired by [Astrohackweek](http://astrohackweek.org)
+
+--
+
+Part conference
+
+--
+
 Part summer school
 
 --
 
 Part hackathon
-
---
-
-Inspired by [Astrohackweek](http://astrohackweek.org)
 
 --
 
